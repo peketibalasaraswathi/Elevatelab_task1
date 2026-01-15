@@ -48,6 +48,17 @@ Task1_Students_Performance_Analysis.ipynb
 
 README.md – Project description
 
+# OUTPUTS
+
+<img width="1078" height="423" alt="Image" src="https://github.com/user-attachments/assets/f8bd5e98-b26e-439d-bc15-c996fe72368d" />
+
+<img width="1003" height="390" alt="Image" src="https://github.com/user-attachments/assets/0a6270ca-d214-47ee-9595-f65bfd91bbd2" />
+
+<img width="1058" height="416" alt="Image" src="https://github.com/user-attachments/assets/0a0c25fc-f218-4aa4-a3d9-8c3176b8730c" />
+
+<img width="1012" height="132" alt="Image" src="https://github.com/user-attachments/assets/f6f247ee-1085-44a2-a0eb-b52c4b382c06" />
+
+
 # Conclusion
 
 The Students Performance dataset is clean, well-structured, and suitable for basic machine learning and data analysis tasks. It provides a good mix of categorical and numerical data, making it ideal for understanding dataset exploration and ML readiness.
